@@ -5,6 +5,7 @@ export default defineConfig({
   title: "业钊下载站文档",
   description: "游戏、MOD、补丁的详细安装与使用说明",
   lang: 'zh-CN',
+  base: '/',
   
   // 网站头部配置
   head: [
