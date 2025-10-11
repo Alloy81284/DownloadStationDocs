@@ -95,42 +95,13 @@ VitePress 支持多种 Markdown 增强功能：
 
 ## 🚀 部署
 
-### 推荐: Cloudflare Pages (推荐)
+### 构建生产版本
 
-最佳选择,提供无限带宽和全球 CDN 加速:
-
-**构建配置:**
-```
-框架预设: VitePress
-构建命令: npm run build
-构建输出目录: docs/.vitepress/dist
-Node.js 版本: 18 或 20
+```bash
+npm run build
 ```
 
-**部署步骤:**
-1. 推送代码到 GitHub
-2. 登录 [Cloudflare Dashboard](https://dash.cloudflare.com/)
-3. 转到 **Pages** → **Create a project**
-4. 连接你的 GitHub 仓库
-5. 使用上述构建配置
-6. 点击 **Save and Deploy**
-
-详细说明请查看 [cloudflare-pages.md](./cloudflare-pages.md)
-
-### GitHub Pages
-
-项目配置了 GitHub Actions 自动部署：
-
-1. 推送代码到 `main` 分支
-2. 在仓库设置中启用 GitHub Pages
-3. GitHub Actions 自动构建和部署
-4. 访问 `https://your-username.github.io/your-repo`
-
-### 其他平台
-
-- **Vercel**: 连接 GitHub 仓库自动部署
-- **Netlify**: 拖拽 `dist` 文件夹或连接 Git
-- **服务器**: 将 `dist` 文件夹内容上传到 Web 服务器
+构建后的文件位于 `docs/.vitepress/dist` 目录，可以部署到任何静态网站托管服务
 
 ## 🤝 贡献
 
