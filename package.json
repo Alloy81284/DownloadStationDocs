@@ -1,0 +1,27 @@
+{
+  "name": "yezau-docs",
+  "version": "1.0.0",
+  "description": "业钊下载站文档中心",
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs --port 25174",
+    "serve": "vitepress serve docs --port 25174"
+  },
+  "keywords": [
+    "documentation",
+    "vitepress",
+    "yezau",
+    "gaming",
+    "hoi4"
+  ],
+  "author": "业钊",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  },
+  "dependencies": {
+    "vue": "^3.4.0"
+  }
+}
