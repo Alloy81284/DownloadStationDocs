@@ -457,7 +457,7 @@
 
 ## 完整势力标签列表
 
-### 主要大国/地区
+### 主要势力
 
 | 势力 | 标签 | 英文名 |
 |-----------|------|--------|
@@ -468,44 +468,6 @@
 | 法国 | FRA | France |
 | 意大利 | ITA | Italy |
 | 日本 | JAP | Japan |
-
-### 轴心国阵营
-
-| 势力 | 标签 | 英文名 |
-|-----------|------|--------|
-| 德国 | GER | Germany |
-| 意大利 | ITA | Italy |
-| 日本 | JAP | Japan |
-| 匈牙利王国 | HUN | Kingdom of Hungary |
-| 罗马尼亚王国 | ROM | Kingdom of Romania |
-| 保加利亚 | BUL | Bulgaria |
-| 芬兰 | FIN | Finland |
-| 泰国 | SIA | Siam |
-| 满洲国 | MAN | Manchukuo |
-| 蒙疆联合自治政府 | MEN | Mengkukuo |
-
-### 同盟国阵营
-
-| 势力 | 标签 | 英文名 |
-|-----------|------|--------|
-| 英国 | ENG | United Kingdom |
-| 美国 | USA | United States |
-| 苏联 | SOV | Soviet Union |
-| 自由法国 | FRA | Free France |
-| 加拿大自治领 | CAN | Dominion of Canada |
-| 澳大利亚 | AST | Australia |
-| 新西兰 | NZL | New Zealand |
-| 南非联邦 | SAF | South Africa |
-| 英属印度 | RAJ | British Raj |
-| 英属马来亚 | MAL | British Malaya |
-
-### 共产国际阵营
-
-| 势力 | 标签 | 英文名 |
-|-----------|------|--------|
-| 苏联 | SOV | Soviet Union |
-| 蒙古 | MON | Mongolia |
-| 图瓦 | TAN | Tannu Tuva |
 
 ### 欧洲势力
 
